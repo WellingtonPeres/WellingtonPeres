@@ -1,7 +1,7 @@
-### Olá Mundo!!! Eu sou Wellignton Peres, Criador de conteúdo de jogos e Desenolvedor de Jogos 👋
+### Olá Mundo!!! Eu sou Wellington Peres, Criador de conteúdo de jogos e Desenvolvedor de Jogos 👋
 
 - 🔭 Atualmente estou trabalhando como indie game dev
-- 🌱 Estou estudando jogos digitai
+- 🌱 Estou estudando jogos digitais
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Amo desenvolver jogos e se me perguntarem o porque, não saberei responder, só sei que amo desenvolvê-los e não consigo parar!!!!
 
